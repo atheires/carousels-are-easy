@@ -1,0 +1,16 @@
+# Your own work stays on your computer
+Writer/Clients/*
+Designer/Brands/*
+Designer/Carousels/*
+App/Data/*
+!Writer/Clients/.gitkeep
+!Designer/Brands/.gitkeep
+!Designer/Carousels/.gitkeep
+!App/Data/Uploads/
+App/Data/Uploads/*
+!App/Data/Uploads/.gitkeep
+!App/Data/index.json
+*.log
+__pycache__/
+.DS_Store
+Removed on */
